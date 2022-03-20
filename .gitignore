@@ -5,7 +5,6 @@
 /marketplace/node_modules
 /marketplace/build
 /marketplace/coverage
-/marketplace/.pnp
 /vendor
 .env
 .env.backup
