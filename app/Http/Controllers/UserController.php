@@ -3,19 +3,20 @@
 namespace App\Http\Controllers;
 
 use App\Http\components\WebController;
+use App\Http\Models\Users;
 
 class UserController extends WebController
 {
-    public function index()
+
+    public function create()
     {
-        $data = file_get_contents('./items.json');
-        $data = json_decode($data, true);
-        return view('web.user.index', $data);
+        $this->showMsg((new Users())->create($this->request));
     }
 
-    public function detail()
+    public function index($follow, $owner)
     {
-        $data = [];
-        return view('web.user.detail', $data);
+        $this->showMsg((new Users())->getList($follow, $owner));
     }
+
+
 }

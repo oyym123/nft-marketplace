@@ -43,6 +43,7 @@ const Home = () => {
                     const totalSupply = await artTokenContract.methods
                         .totalSupply()
                         .call();
+
                     const totalItemsForSale = await marketplaceContract.methods
                         .totalItemsForSale()
                         .call();
