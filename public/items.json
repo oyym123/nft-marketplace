@@ -1,0 +1,1170 @@
+{
+    "errno": 0,
+    "data": {
+        "total": "404",
+        "pages": "21",
+        "limit": "20",
+        "page": "2",
+        "list": [
+            {
+                "nft": {
+                    "id": "848",
+                    "deleted": false,
+                    "createTime": "1646942541",
+                    "updateTime": "1646942754",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmPbFS9MbwTLQW8uzgRgqqwk5sNqcDWHb1ujtS4oYSYGeP.jpeg",
+                    "storageId": "50969226411769923",
+                    "tokenId": "478",
+                    "quantity": "1",
+                    "name": "00975",
+                    "description": "123123",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                    "metadataUrl": "ipfs://ipfs/QmNknFZ2X9pfXYMxZm3F5tptTnYd28TGs9HdAwrZS3wGWb",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmPbFS9MbwTLQW8uzgRgqqwk5sNqcDWHb1ujtS4oYSYGeP\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:478\",\"name\":\"00975\",\"description\":\"123123\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0x47028c9ac4f09aa1c1ddc00e45763968fe423a52"
+                        },
+                        "item": {
+                            "id": "1039",
+                            "nftId": "848",
+                            "imgUrl": "/static/upload/QmPbFS9MbwTLQW8uzgRgqqwk5sNqcDWHb1ujtS4oYSYGeP.jpeg",
+                            "storageId": "50969226411769923",
+                            "price": 0.000000,
+                            "quantity": "1",
+                            "signature": "",
+                            "owner": "0x47028c9ac4f09aa1c1ddc00e45763968fe423a52",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1646943054",
+                            "updateTime": "1646943054",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "847",
+                    "deleted": false,
+                    "createTime": "1646941866",
+                    "updateTime": "1646942088",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmPUupj69qigXccGHZPeaK2TXugvHQV63gcoDdXM2zLF5s.jpeg",
+                    "storageId": "50969226411769921",
+                    "tokenId": "477",
+                    "quantity": "1",
+                    "name": "11",
+                    "description": "11",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8",
+                    "metadataUrl": "ipfs://ipfs/Qma7GS5iqvRE1BRZsFXvXYKsPpgpSniTXWqBBpnHmXQSEB",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmPUupj69qigXccGHZPeaK2TXugvHQV63gcoDdXM2zLF5s\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:477\",\"name\":\"11\",\"description\":\"11\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0x47028c9ac4f09aa1c1ddc00e45763968fe423a52"
+                        },
+                        "item": {
+                            "id": "1065",
+                            "nftId": "847",
+                            "imgUrl": "/static/upload/QmPUupj69qigXccGHZPeaK2TXugvHQV63gcoDdXM2zLF5s.jpeg",
+                            "storageId": "50969226411769921",
+                            "price": 0.000000,
+                            "quantity": "1",
+                            "signature": "",
+                            "owner": "0x47028c9ac4f09aa1c1ddc00e45763968fe423a52",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1647025824",
+                            "updateTime": "1647025824",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "846",
+                    "deleted": false,
+                    "createTime": "1646939795",
+                    "updateTime": "1646940018",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmTxxnMMF6QvzmizKJ4J1hZJMMEvhpYum6VunURv3ANMyd.jpeg",
+                    "storageId": "50969226411769919",
+                    "tokenId": "476",
+                    "quantity": "1",
+                    "name": "ewqewqeeqweqewqeqweeqwewq",
+                    "description": "0xa2d986bb2A19299A97a4f60c5de47010a3d4aD20",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                    "metadataUrl": "ipfs://ipfs/QmUpZxddGUihsbo5E8Wj1ENrgn5VZmDz7fKyUzNdqvfvbT",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmTxxnMMF6QvzmizKJ4J1hZJMMEvhpYum6VunURv3ANMyd\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:476\",\"name\":\"ewqewqeeqweqewqeqweeqwewq\",\"description\":\"0xa2d986bb2A19299A97a4f60c5de47010a3d4aD20\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "nickname": "grad",
+                            "avatar": "/static/upload/QmQjc122tiTCJqB6BbcPao4uqD6pNAo8fk7ffHwnj3mzv9.png",
+                            "address": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8"
+                        },
+                        "item": {
+                            "id": "1035",
+                            "nftId": "846",
+                            "imgUrl": "/static/upload/QmTxxnMMF6QvzmizKJ4J1hZJMMEvhpYum6VunURv3ANMyd.jpeg",
+                            "storageId": "50969226411769919",
+                            "price": 0.010000,
+                            "quantity": "1",
+                            "signature": "0x8f7720bf6e7309305e4d3736136fb6f2afcc35bcc75fd36da39a4712a5427af611320aa78a86f628c53ee4125360287499e0d22c9f3dc7b703563240cdb7e0391b",
+                            "owner": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8",
+                            "onsell": true,
+                            "deleted": false,
+                            "createTime": "1646940918",
+                            "updateTime": "1646940918",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "0x0000000000000000000000000000000000000000",
+                            "sellValue": "1",
+                            "buyValue": "0.01",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "845",
+                    "deleted": false,
+                    "createTime": "1646939378",
+                    "updateTime": "1646939598",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmVVxskYAMnFMzmy7RKpUFygcksGDTZwYbN9LvWbcbMpzk.png",
+                    "storageId": "50969226411769917",
+                    "tokenId": "475",
+                    "quantity": "1",
+                    "name": "34",
+                    "description": "ghcjvbj",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                    "metadataUrl": "ipfs://ipfs/QmaZiD2Yed75wA6yY8FbxyChd2jbHfH5tHksyK9X4Ae4HA",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmVVxskYAMnFMzmy7RKpUFygcksGDTZwYbN9LvWbcbMpzk\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:475\",\"name\":\"34\",\"description\":\"ghcjvbj\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20"
+                        },
+                        "item": {
+                            "id": "1032",
+                            "nftId": "845",
+                            "imgUrl": "/static/upload/QmVVxskYAMnFMzmy7RKpUFygcksGDTZwYbN9LvWbcbMpzk.png",
+                            "storageId": "50969226411769917",
+                            "price": 0.010000,
+                            "quantity": "1",
+                            "signature": "0xa73450143d98571a250f7f265a86e4fccf256b161faa955de04c9548166ad73171bffb76844d4b0afead05647dcefe77a53a73eabe5233fbf2c066d3705278d01c",
+                            "owner": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                            "onsell": true,
+                            "deleted": false,
+                            "createTime": "1646939378",
+                            "updateTime": "1646939598",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "0xc778417e063141139fce010982780140aa0cd5ab",
+                            "sellValue": "1",
+                            "buyValue": "0.01",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "844",
+                    "deleted": false,
+                    "createTime": "1646938511",
+                    "updateTime": "1646938728",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmVVxskYAMnFMzmy7RKpUFygcksGDTZwYbN9LvWbcbMpzk.png",
+                    "storageId": "50969226411769915",
+                    "tokenId": "474",
+                    "quantity": "1",
+                    "name": "765",
+                    "description": "fdghv",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                    "metadataUrl": "ipfs://ipfs/QmSNrBkT8WDCW5sXS69XQUfoygQRJLGtBxfGwogE6k5RtS",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmVVxskYAMnFMzmy7RKpUFygcksGDTZwYbN9LvWbcbMpzk\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:474\",\"name\":\"765\",\"description\":\"fdghv\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0x47028c9ac4f09aa1c1ddc00e45763968fe423a52"
+                        },
+                        "item": {
+                            "id": "1031",
+                            "nftId": "844",
+                            "imgUrl": "/static/upload/QmVVxskYAMnFMzmy7RKpUFygcksGDTZwYbN9LvWbcbMpzk.png",
+                            "storageId": "50969226411769915",
+                            "price": 0.000000,
+                            "quantity": "1",
+                            "signature": "",
+                            "owner": "0x47028c9ac4f09aa1c1ddc00e45763968fe423a52",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1646938998",
+                            "updateTime": "1646938998",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "843",
+                    "deleted": false,
+                    "createTime": "1646938149",
+                    "updateTime": "1646938368",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmVVxskYAMnFMzmy7RKpUFygcksGDTZwYbN9LvWbcbMpzk.png",
+                    "storageId": "50969226411769913",
+                    "tokenId": "473",
+                    "quantity": "1",
+                    "name": "4214",
+                    "description": "42142",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                    "metadataUrl": "ipfs://ipfs/QmdzqiTdVA6on8vnH3NXEJ7NoPLnTyqfGErdwAJiUoMGVM",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmVVxskYAMnFMzmy7RKpUFygcksGDTZwYbN9LvWbcbMpzk\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:473\",\"name\":\"4214\",\"description\":\"42142\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20"
+                        },
+                        "item": {
+                            "id": "1029",
+                            "nftId": "843",
+                            "imgUrl": "/static/upload/QmVVxskYAMnFMzmy7RKpUFygcksGDTZwYbN9LvWbcbMpzk.png",
+                            "storageId": "50969226411769913",
+                            "price": 0.010000,
+                            "quantity": "1",
+                            "signature": "0xc7c2487117bcd82e1e7c98ecdf4401a4131d9286783fa9d60adc82721d43fbad24a4e8f12311bbc16ce432ca2cfec3094390d9daa7ac8e80339853a8644011a91b",
+                            "owner": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                            "onsell": true,
+                            "deleted": false,
+                            "createTime": "1646938149",
+                            "updateTime": "1646938368",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "0xc778417e063141139fce010982780140aa0cd5ab",
+                            "sellValue": "1",
+                            "buyValue": "0.01",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "842",
+                    "deleted": false,
+                    "createTime": "1646937144",
+                    "updateTime": "1646937348",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "2",
+                    "imgUrl": "/static/upload/QmVVxskYAMnFMzmy7RKpUFygcksGDTZwYbN9LvWbcbMpzk.png",
+                    "storageId": "50969226411769911",
+                    "tokenId": "472",
+                    "quantity": "1",
+                    "name": "wawaqwaq",
+                    "description": "qwe",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0x47028c9ac4f09aa1c1ddc00e45763968fe423a52",
+                    "metadataUrl": "ipfs://ipfs/QmfZcyBFiJPqSXCnSQy86RrNybdHkUPhDaBZQa7ty5zTXx",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmVVxskYAMnFMzmy7RKpUFygcksGDTZwYbN9LvWbcbMpzk\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:472\",\"name\":\"wawaqwaq\",\"description\":\"qwe\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "nickname": "grad",
+                            "avatar": "/static/upload/QmQjc122tiTCJqB6BbcPao4uqD6pNAo8fk7ffHwnj3mzv9.png",
+                            "address": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8"
+                        },
+                        "item": {
+                            "id": "1028",
+                            "nftId": "842",
+                            "imgUrl": "/static/upload/QmVVxskYAMnFMzmy7RKpUFygcksGDTZwYbN9LvWbcbMpzk.png",
+                            "storageId": "50969226411769911",
+                            "price": 0.000000,
+                            "quantity": "1",
+                            "signature": "",
+                            "owner": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1646937739",
+                            "updateTime": "1646937739",
+                            "categoryId": "2",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "841",
+                    "deleted": false,
+                    "createTime": "1646934575",
+                    "updateTime": "1646934793",
+                    "contractId": "3",
+                    "address": "0x6f3dce20487e1394a3505f9efad1843358eb0e03",
+                    "categoryId": "2",
+                    "imgUrl": "/static/upload/QmW2yyjfqFruauPrttGb9js8U5mdoh34dpCjE3gDXRVnqX.jfif",
+                    "storageId": "50969226411769909",
+                    "tokenId": "75",
+                    "quantity": "10",
+                    "name": "搞笑图片",
+                    "description": "搞笑图片，让你无时无刻都保持开心",
+                    "royalties": "[200]",
+                    "properties": "[{\"key\":\"name\",\"value\":\"showhand\",\"trait_type\":\"name\"}]",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 2,
+                    "creator": "0x88b479e726689cfc19daf30ca982ea37dd7f1740",
+                    "metadataUrl": "ipfs://ipfs/QmVVRYy5y27Ebi4K2eLj2Dgi2h6nhnm6c3apJZJftw7qcq",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmW2yyjfqFruauPrttGb9js8U5mdoh34dpCjE3gDXRVnqX\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x6f3dce20487e1394a3505f9efad1843358eb0e03:75\",\"name\":\"搞笑图片\",\"description\":\"搞笑图片，让你无时无刻都保持开心\",\"attributes\":[{\"value\":\"showhand\",\"key\":\"name\",\"trait_type\":\"name\"}]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0x88b479e726689cfc19daf30ca982ea37dd7f1740"
+                        },
+                        "item": {
+                            "id": "1024",
+                            "nftId": "841",
+                            "imgUrl": "/static/upload/QmW2yyjfqFruauPrttGb9js8U5mdoh34dpCjE3gDXRVnqX.jfif",
+                            "storageId": "50969226411769909",
+                            "price": 0.000000,
+                            "quantity": "5",
+                            "signature": "0xe8aaf5877776a531c8cfb327f115486491c3645bee2113f6a2ba401b672616ea3f82cf09f67ca75d4e03efacd6fa571beb9a943f546c2d760b0499faf62080871b",
+                            "owner": "0x88b479e726689cfc19daf30ca982ea37dd7f1740",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1646934575",
+                            "updateTime": "1647287604",
+                            "categoryId": "2",
+                            "address": "0x6f3dce20487e1394a3505f9efad1843358eb0e03",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    },
+                    {
+                        "user": {
+                            "address": "0xe6a7fc1f4fea924a09b771977d50b351a139b0af"
+                        },
+                        "item": {
+                            "id": "1060",
+                            "nftId": "841",
+                            "imgUrl": "/static/upload/QmW2yyjfqFruauPrttGb9js8U5mdoh34dpCjE3gDXRVnqX.jfif",
+                            "storageId": "50969226411769909",
+                            "price": 0.000000,
+                            "quantity": "2",
+                            "signature": "0x5c36f8e448329d87c6f4ed7a52a8433b385387ac97275b3fd7452223ea86738727ab48dcc361b34836cd25ef2020d33c8962ff737932c4984d3dae4c78f940e31c",
+                            "owner": "0xe6a7fc1f4fea924a09b771977d50b351a139b0af",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1647019488",
+                            "updateTime": "1647287604",
+                            "categoryId": "2",
+                            "address": "0x6f3dce20487e1394a3505f9efad1843358eb0e03",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    },
+                    {
+                        "user": {
+                            "address": "0xd51555f4f10ea24c2f6d5df4c97e94c0016abcb3"
+                        },
+                        "item": {
+                            "id": "1085",
+                            "nftId": "841",
+                            "imgUrl": "/static/upload/QmW2yyjfqFruauPrttGb9js8U5mdoh34dpCjE3gDXRVnqX.jfif",
+                            "storageId": "50969226411769909",
+                            "price": 0.000000,
+                            "quantity": "3",
+                            "signature": "",
+                            "owner": "0xd51555f4f10ea24c2f6d5df4c97e94c0016abcb3",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1647187309",
+                            "updateTime": "1647287484",
+                            "categoryId": "2",
+                            "address": "0x6f3dce20487e1394a3505f9efad1843358eb0e03",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    }
+                ],
+                "contract": {
+                    "id": "3",
+                    "deleted": false,
+                    "createTime": "1619552382",
+                    "updateTime": "1647331681",
+                    "name": "Finger NFT",
+                    "symbol": "Finger NFT",
+                    "address": "0x6f3dce20487e1394a3505f9eFaD1843358EB0E03",
+                    "type": 2,
+                    "cover": "/static/upload/QmTHpk1sUVAPHQ8KrGeWgHzUdLkHKH1D5JhUxhv1bzsnML.png",
+                    "isAdmin": true,
+                    "verify": true,
+                    "description": "Finger NFT",
+                    "lastTokenId": "78",
+                    "bannerUrl": "",
+                    "getInfoTimes": 0,
+                    "isRoyalties": false,
+                    "isSync": true
+                }
+            },
+            {
+                "nft": {
+                    "id": "840",
+                    "deleted": false,
+                    "createTime": "1646914539",
+                    "updateTime": "1646914758",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmS65nvq2Ja5DtgKJGkP2zQ6QSYiKwAfYeDAaDTJkQSqrF.gif",
+                    "storageId": "50969226411769907",
+                    "tokenId": "471",
+                    "quantity": "1",
+                    "name": "priveau220496",
+                    "description": "ghf",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                    "metadataUrl": "ipfs://ipfs/QmbUTccJfVZZRERgZF3K1h2cSZgJgKPXwobqSGXBX9SBBb",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmS65nvq2Ja5DtgKJGkP2zQ6QSYiKwAfYeDAaDTJkQSqrF\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:471\",\"name\":\"priveau220496\",\"description\":\"ghf\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20"
+                        },
+                        "item": {
+                            "id": "1020",
+                            "nftId": "840",
+                            "imgUrl": "/static/upload/QmS65nvq2Ja5DtgKJGkP2zQ6QSYiKwAfYeDAaDTJkQSqrF.gif",
+                            "storageId": "50969226411769907",
+                            "price": 0.010000,
+                            "quantity": "1",
+                            "signature": "0xea39b008dd73866f4b1fa1a89a15b49ce02e6047bdf6becc332c97747ca78fb31de460aed41b0972875253aa5c957396513329e6afc042ea89fc5d246f8f14791c",
+                            "owner": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                            "onsell": true,
+                            "deleted": false,
+                            "createTime": "1646914539",
+                            "updateTime": "1646914758",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "0xc778417e063141139fce010982780140aa0cd5ab",
+                            "sellValue": "1",
+                            "buyValue": "0.01",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "839",
+                    "deleted": false,
+                    "createTime": "1646914376",
+                    "updateTime": "1646914578",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmemSZU2UYd9aj8Xz6zBHgBPLsS4YbLcDs7XZ6a2Qwaazo.jpg",
+                    "storageId": "50969226411769905",
+                    "tokenId": "470",
+                    "quantity": "1",
+                    "name": "zxc",
+                    "description": "zxc",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                    "metadataUrl": "ipfs://ipfs/QmTSMvRd9CdBgnML1U24TcMqhgm7jDrghsj3sQN7zGPsUC",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmemSZU2UYd9aj8Xz6zBHgBPLsS4YbLcDs7XZ6a2Qwaazo\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:470\",\"name\":\"zxc\",\"description\":\"zxc\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20"
+                        },
+                        "item": {
+                            "id": "1019",
+                            "nftId": "839",
+                            "imgUrl": "/static/upload/QmemSZU2UYd9aj8Xz6zBHgBPLsS4YbLcDs7XZ6a2Qwaazo.jpg",
+                            "storageId": "50969226411769905",
+                            "price": 0.010000,
+                            "quantity": "1",
+                            "signature": "0x71cc3c723183db3ce9c620e3d16be7e9939fea6a1f3f5a39b49a0c5dc8c926da36ec20faeb3f5a1522d64c2827ac59382eed8b2cfff6b5de459a73a12ba2d12d1c",
+                            "owner": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                            "onsell": true,
+                            "deleted": false,
+                            "createTime": "1646914376",
+                            "updateTime": "1646914578",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "0xc778417e063141139fce010982780140aa0cd5ab",
+                            "sellValue": "1",
+                            "buyValue": "0.01",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "838",
+                    "deleted": false,
+                    "createTime": "1646914138",
+                    "updateTime": "1646914338",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmTGtdmDZG9UeYSvPLzJd77ViniEkkG3KwoQfk52i8wvkX.png",
+                    "storageId": "50969226411769903",
+                    "tokenId": "469",
+                    "quantity": "1",
+                    "name": "asd",
+                    "description": "asdv",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8",
+                    "metadataUrl": "ipfs://ipfs/QmcacL2ztxEVHML5sShtkHe9XvXU8GU9XXwKuBQfFq6aNP",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmTGtdmDZG9UeYSvPLzJd77ViniEkkG3KwoQfk52i8wvkX\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:469\",\"name\":\"asd\",\"description\":\"asdv\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0x47028c9ac4f09aa1c1ddc00e45763968fe423a52"
+                        },
+                        "item": {
+                            "id": "1026",
+                            "nftId": "838",
+                            "imgUrl": "/static/upload/QmTGtdmDZG9UeYSvPLzJd77ViniEkkG3KwoQfk52i8wvkX.png",
+                            "storageId": "50969226411769903",
+                            "price": 0.000000,
+                            "quantity": "1",
+                            "signature": "",
+                            "owner": "0x47028c9ac4f09aa1c1ddc00e45763968fe423a52",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1646936899",
+                            "updateTime": "1646936899",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "837",
+                    "deleted": false,
+                    "createTime": "1646911924",
+                    "updateTime": "1646912148",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "2",
+                    "imgUrl": "/static/upload/QmTy7ZEEyvL6sDcY7ktowJYeDgrkzHdX96T5vCwxDb25Qm.jpg",
+                    "storageId": "50969226411769901",
+                    "tokenId": "468",
+                    "quantity": "1",
+                    "name": "Our Future MarketPlace",
+                    "description": "",
+                    "royalties": "[100]",
+                    "properties": "[{\"key\":\"1\",\"trait_type\":\"1\",\"value\":\"1\"}]",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0x09470b0c6b8218ed97911fb5416077246248b700",
+                    "metadataUrl": "ipfs://ipfs/QmRVXP3NXaKyfLigiQDXitGwntG9enTpkzaHVyAeLVdGSS",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmTy7ZEEyvL6sDcY7ktowJYeDgrkzHdX96T5vCwxDb25Qm\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:468\",\"name\":\"Our Future MarketPlace\",\"description\":\"\",\"attributes\":[{\"value\":\"1\",\"key\":\"1\",\"trait_type\":\"1\"}]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0x23c7b2ff1d0d19e915f893c5bc333dda6f89d067"
+                        },
+                        "item": {
+                            "id": "1053",
+                            "nftId": "837",
+                            "imgUrl": "/static/upload/QmTy7ZEEyvL6sDcY7ktowJYeDgrkzHdX96T5vCwxDb25Qm.jpg",
+                            "storageId": "50969226411769901",
+                            "price": 0.000000,
+                            "quantity": "1",
+                            "signature": "",
+                            "owner": "0x23c7b2ff1d0d19e915f893c5bc333dda6f89d067",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1646978370",
+                            "updateTime": "1646978370",
+                            "categoryId": "2",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "835",
+                    "deleted": false,
+                    "createTime": "1646908517",
+                    "updateTime": "1646908723",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmemSZU2UYd9aj8Xz6zBHgBPLsS4YbLcDs7XZ6a2Qwaazo.jpg",
+                    "storageId": "50969226411769897",
+                    "tokenId": "466",
+                    "quantity": "1",
+                    "name": "qwe",
+                    "description": "qweqq",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                    "metadataUrl": "ipfs://ipfs/Qmc25Y8Yax7QrZou4EAG9KHrGznaa7gDp2JeVcEJ2RXSZe",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmemSZU2UYd9aj8Xz6zBHgBPLsS4YbLcDs7XZ6a2Qwaazo\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:466\",\"name\":\"qwe\",\"description\":\"qweqq\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "nickname": "grad",
+                            "avatar": "/static/upload/QmQjc122tiTCJqB6BbcPao4uqD6pNAo8fk7ffHwnj3mzv9.png",
+                            "address": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8"
+                        },
+                        "item": {
+                            "id": "1015",
+                            "nftId": "835",
+                            "imgUrl": "/static/upload/QmemSZU2UYd9aj8Xz6zBHgBPLsS4YbLcDs7XZ6a2Qwaazo.jpg",
+                            "storageId": "50969226411769897",
+                            "price": 0.000000,
+                            "quantity": "1",
+                            "signature": "",
+                            "owner": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1646910589",
+                            "updateTime": "1646910589",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "834",
+                    "deleted": false,
+                    "createTime": "1646908260",
+                    "updateTime": "1646908483",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmTtQfnrN8W717FQXQTbnLfZQYdJSbs7Ptf1od8iXM7y16.jpg",
+                    "storageId": "50969226411769895",
+                    "tokenId": "465",
+                    "quantity": "1",
+                    "name": "213",
+                    "description": "asd",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                    "metadataUrl": "ipfs://ipfs/QmRaziUyqwhbhLFBQ25TD49KVCwKybsSbFm6pRJcR4cHts",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmTtQfnrN8W717FQXQTbnLfZQYdJSbs7Ptf1od8iXM7y16\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:465\",\"name\":\"213\",\"description\":\"asd\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20"
+                        },
+                        "item": {
+                            "id": "1013",
+                            "nftId": "834",
+                            "imgUrl": "/static/upload/QmTtQfnrN8W717FQXQTbnLfZQYdJSbs7Ptf1od8iXM7y16.jpg",
+                            "storageId": "50969226411769895",
+                            "price": 0.010000,
+                            "quantity": "1",
+                            "signature": "0x621c4d563a045b91ca6acf20474886bc7a128e960f1632f0c489d3301f7316c9613b0374043c474a8af55118927d61101ac4f5a8786f6c13ed9a7c0d72e164631c",
+                            "owner": "0xa2d986bb2a19299a97a4f60c5de47010a3d4ad20",
+                            "onsell": true,
+                            "deleted": false,
+                            "createTime": "1646908260",
+                            "updateTime": "1646908483",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "0xc778417e063141139fce010982780140aa0cd5ab",
+                            "sellValue": "1",
+                            "buyValue": "0.01",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "833",
+                    "deleted": false,
+                    "createTime": "1646906372",
+                    "updateTime": "1646906593",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmXquAYvSc72qoGPfy3C3xfRJNFcBq6NQBsN15NPKjx3pX.png",
+                    "storageId": "50969226411769893",
+                    "tokenId": "464",
+                    "quantity": "1",
+                    "name": "test",
+                    "description": "test",
+                    "royalties": "[300]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8",
+                    "metadataUrl": "ipfs://ipfs/QmQnPiDW7pbahTCgk63vLkJTxk8Vu3FLidEtEuBf4TgnxA",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmXquAYvSc72qoGPfy3C3xfRJNFcBq6NQBsN15NPKjx3pX\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:464\",\"name\":\"test\",\"description\":\"test\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "nickname": "grad",
+                            "avatar": "/static/upload/QmQjc122tiTCJqB6BbcPao4uqD6pNAo8fk7ffHwnj3mzv9.png",
+                            "address": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8"
+                        },
+                        "item": {
+                            "id": "1011",
+                            "nftId": "833",
+                            "imgUrl": "/static/upload/QmXquAYvSc72qoGPfy3C3xfRJNFcBq6NQBsN15NPKjx3pX.png",
+                            "storageId": "50969226411769893",
+                            "price": 0.000000,
+                            "quantity": "1",
+                            "signature": "",
+                            "owner": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1646907432",
+                            "updateTime": "1646907432",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "832",
+                    "deleted": false,
+                    "createTime": "1646906124",
+                    "updateTime": "1646906352",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmZUAYuALRFEbyRDmKa5mTQVXLRjQ7uJixP9misYVxrnCn.jpg",
+                    "storageId": "50969226411769891",
+                    "tokenId": "463",
+                    "quantity": "1",
+                    "name": "131313",
+                    "description": "hfg",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8",
+                    "metadataUrl": "ipfs://ipfs/QmTcvYuUg2toiFY91421w1zNvAKv51hTcJQCggV9F36ada",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmZUAYuALRFEbyRDmKa5mTQVXLRjQ7uJixP9misYVxrnCn\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:463\",\"name\":\"131313\",\"description\":\"hfg\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "nickname": "grad",
+                            "avatar": "/static/upload/QmQjc122tiTCJqB6BbcPao4uqD6pNAo8fk7ffHwnj3mzv9.png",
+                            "address": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8"
+                        },
+                        "item": {
+                            "id": "1012",
+                            "nftId": "832",
+                            "imgUrl": "/static/upload/QmZUAYuALRFEbyRDmKa5mTQVXLRjQ7uJixP9misYVxrnCn.jpg",
+                            "storageId": "50969226411769891",
+                            "price": 0.000000,
+                            "quantity": "1",
+                            "signature": "",
+                            "owner": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1646908243",
+                            "updateTime": "1646908243",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "831",
+                    "deleted": false,
+                    "createTime": "1646905993",
+                    "updateTime": "1646906202",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmU9Rk3pkcKJvnkPteCUbeGmwj4xhmYKAHBu2YGwroeHnc.jpeg",
+                    "storageId": "50969226411769889",
+                    "tokenId": "462",
+                    "quantity": "1",
+                    "name": "not-empty",
+                    "description": "a",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0x23c7b2ff1d0d19e915f893c5bc333dda6f89d067",
+                    "metadataUrl": "ipfs://ipfs/QmWuVPDF3YqwQLdas6BfpyHukkwy3EPCmZm7tzyC26nxWr",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmU9Rk3pkcKJvnkPteCUbeGmwj4xhmYKAHBu2YGwroeHnc\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:462\",\"name\":\"not-empty\",\"description\":\"a\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0x23c7b2ff1d0d19e915f893c5bc333dda6f89d067"
+                        },
+                        "item": {
+                            "id": "1006",
+                            "nftId": "831",
+                            "imgUrl": "/static/upload/QmU9Rk3pkcKJvnkPteCUbeGmwj4xhmYKAHBu2YGwroeHnc.jpeg",
+                            "storageId": "50969226411769889",
+                            "price": 0.010000,
+                            "quantity": "1",
+                            "signature": "0x77d08a875b56aff73060cda11ecb58b8a72437a9c9cd3eefe375f79b2ab2490b3f4e3c28793f83cb59212271b400d45bbbbd2c49a54b74c10d89c3cc1cc1c8771c",
+                            "owner": "0x23c7b2ff1d0d19e915f893c5bc333dda6f89d067",
+                            "onsell": true,
+                            "deleted": false,
+                            "createTime": "1646905993",
+                            "updateTime": "1646906202",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "0xc778417e063141139fce010982780140aa0cd5ab",
+                            "sellValue": "1",
+                            "buyValue": "0.01",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "830",
+                    "deleted": false,
+                    "createTime": "1646905705",
+                    "updateTime": "1646905932",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmXquAYvSc72qoGPfy3C3xfRJNFcBq6NQBsN15NPKjx3pX.png",
+                    "storageId": "50969226411769887",
+                    "tokenId": "461",
+                    "quantity": "1",
+                    "name": "gg",
+                    "description": "gg",
+                    "royalties": "[300]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0xcd418e77e5315d47fc396f481c30ec2403bed1d8",
+                    "metadataUrl": "ipfs://ipfs/QmZb5wZbFBziok53He7sQDb5vkskmiBd5SKJQgwWYvqxiF",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmXquAYvSc72qoGPfy3C3xfRJNFcBq6NQBsN15NPKjx3pX\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:461\",\"name\":\"gg\",\"description\":\"gg\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0xe6a7fc1f4fea924a09b771977d50b351a139b0af"
+                        },
+                        "item": {
+                            "id": "1076",
+                            "nftId": "830",
+                            "imgUrl": "/static/upload/QmXquAYvSc72qoGPfy3C3xfRJNFcBq6NQBsN15NPKjx3pX.png",
+                            "storageId": "50969226411769887",
+                            "price": 0.000000,
+                            "quantity": "1",
+                            "signature": "",
+                            "owner": "0xe6a7fc1f4fea924a09b771977d50b351a139b0af",
+                            "onsell": false,
+                            "deleted": false,
+                            "createTime": "1647172614",
+                            "updateTime": "1647172614",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "",
+                            "sellValue": "0",
+                            "buyValue": "",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            },
+            {
+                "nft": {
+                    "id": "829",
+                    "deleted": false,
+                    "createTime": "1646902310",
+                    "updateTime": "1646902524",
+                    "contractId": "3",
+                    "address": "0x6f3dce20487e1394a3505f9efad1843358eb0e03",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmXGQcS9Vnp35wRvSZa6CA3KX7rHZ8ThkRz3rLoeXF5xLo.jpg",
+                    "storageId": "50969226411769885",
+                    "tokenId": "74",
+                    "quantity": "10",
+                    "name": "xiangrikui",
+                    "description": "xiangrikui",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 2,
+                    "creator": "0x48ce4ab78c9c89cc1cec80aeded72844cb8c5764",
+                    "metadataUrl": "ipfs://ipfs/QmVKrBXuXfmSKHMsCwb76F3edKmMTykyVZ2dX6ioXzSM8d",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmXGQcS9Vnp35wRvSZa6CA3KX7rHZ8ThkRz3rLoeXF5xLo\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x6f3dce20487e1394a3505f9efad1843358eb0e03:74\",\"name\":\"xiangrikui\",\"description\":\"xiangrikui\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0x48ce4ab78c9c89cc1cec80aeded72844cb8c5764"
+                        },
+                        "item": {
+                            "id": "1003",
+                            "nftId": "829",
+                            "imgUrl": "/static/upload/QmXGQcS9Vnp35wRvSZa6CA3KX7rHZ8ThkRz3rLoeXF5xLo.jpg",
+                            "storageId": "50969226411769885",
+                            "price": 0.100000,
+                            "quantity": "10",
+                            "signature": "0xdf852673a504de75979706f15a8337c3f354d250a913b5264999335f5aed084763883c39c5d663cb434a947f1af165e1a63c8dac6c3084952cefe10ec826e0ed1c",
+                            "owner": "0x48ce4ab78c9c89cc1cec80aeded72844cb8c5764",
+                            "onsell": true,
+                            "deleted": false,
+                            "createTime": "1646902310",
+                            "updateTime": "1646902524",
+                            "categoryId": "1",
+                            "address": "0x6f3dce20487e1394a3505f9efad1843358eb0e03",
+                            "payTokenAddress": "0xc778417e063141139fce010982780140aa0cd5ab",
+                            "sellValue": "10",
+                            "buyValue": "0.1",
+                            "completed": "0"
+                        }
+                    }
+                ],
+                "contract": {
+                    "id": "3",
+                    "deleted": false,
+                    "createTime": "1619552382",
+                    "updateTime": "1647331681",
+                    "name": "Finger NFT",
+                    "symbol": "Finger NFT",
+                    "address": "0x6f3dce20487e1394a3505f9eFaD1843358EB0E03",
+                    "type": 2,
+                    "cover": "/static/upload/QmTHpk1sUVAPHQ8KrGeWgHzUdLkHKH1D5JhUxhv1bzsnML.png",
+                    "isAdmin": true,
+                    "verify": true,
+                    "description": "Finger NFT",
+                    "lastTokenId": "78",
+                    "bannerUrl": "",
+                    "getInfoTimes": 0,
+                    "isRoyalties": false,
+                    "isSync": true
+                }
+            },
+            {
+                "nft": {
+                    "id": "824",
+                    "deleted": false,
+                    "createTime": "1646891363",
+                    "updateTime": "1646891562",
+                    "contractId": "1",
+                    "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                    "categoryId": "1",
+                    "imgUrl": "/static/upload/QmPU7y4qb9pWC2X2XhbELR45bQohF5CurR4KcbtkXQAhuJ.jpg",
+                    "storageId": "50969226411769876",
+                    "tokenId": "456",
+                    "quantity": "1",
+                    "name": "123123",
+                    "description": "12323",
+                    "royalties": "[200]",
+                    "properties": "",
+                    "nftVerify": 1,
+                    "isSync": true,
+                    "type": 3,
+                    "creator": "0x494a93612a9654a4161fd5ebad4c1b8f30db3d8e",
+                    "metadataUrl": "ipfs://ipfs/QmPP5D7c6w2e4GdbTx3HC9BYXyv37RX7M9HSzJD262h4U6",
+                    "metadataContent": "{\"image\":\"ipfs://ipfs/QmPU7y4qb9pWC2X2XhbELR45bQohF5CurR4KcbtkXQAhuJ\",\"animation_url\":\"\",\"external_url\":\"https://fingernft.fingerchar.com/detail/0x9090590607356597de601938b8c8bf0320ffa568:456\",\"name\":\"123123\",\"description\":\"12323\",\"attributes\":[]}",
+                    "getMetaTimes": 0
+                },
+                "itemList": [
+                    {
+                        "user": {
+                            "address": "0x494a93612a9654a4161fd5ebad4c1b8f30db3d8e"
+                        },
+                        "item": {
+                            "id": "997",
+                            "nftId": "824",
+                            "imgUrl": "/static/upload/QmPU7y4qb9pWC2X2XhbELR45bQohF5CurR4KcbtkXQAhuJ.jpg",
+                            "storageId": "50969226411769876",
+                            "price": 0.009000,
+                            "quantity": "1",
+                            "signature": "0x2e6a29af710fb28873e7ea7a8dee58a7569beafb6440dd00e15dcd69a1ba22aa378c1f4928880abbfff7d3e20dc970868aabf080a3675520fc6ad9befb5000a01b",
+                            "owner": "0x494a93612a9654a4161fd5ebad4c1b8f30db3d8e",
+                            "onsell": true,
+                            "deleted": false,
+                            "createTime": "1646891363",
+                            "updateTime": "1646891562",
+                            "categoryId": "1",
+                            "address": "0x9090590607356597de601938b8c8bf0320ffa568",
+                            "payTokenAddress": "0x0000000000000000000000000000000000000000",
+                            "sellValue": "1",
+                            "buyValue": "0.009",
+                            "completed": "0"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "errmsg": "Success"
+}
